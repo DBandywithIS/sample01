@@ -1,2 +1,4 @@
 1. Successfully cloned repo from github
-2. Attempting to push changes to remote repo
+2. Attempting to push changes to remote repo - successful
+3. Created branch at remote repo
+4. Attempting to work from that branch
