@@ -1,1 +1,2 @@
 1. Successfully cloned repo from github
+2. Attempting to push changes to remote repo
